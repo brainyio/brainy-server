@@ -39,7 +39,6 @@ require([
     app.listen(port);
   }; 
 
-  console.log(resources);
   if (resources) {
     file.walk(resources, function(n, p, d, files) {
       require(files, function() {
