@@ -12,9 +12,9 @@
 
   "dependencies": {
     "backbone": "0.9.10",
-    "brainy-api": "git://github.com/brainyio/brainy-api.git",
-    "brainy-boilerplate": "git://github.com/brainyio/brainy-boilerplate.git",
-    "brainy-sync": "git://github.com/brainyio/brainy-sync.git",
+    "brainy-api": "0.0.1",
+    "brainy-boilerplate": "0.0.1",
+    "brainy-sync": "0.0.1",
     "express": "3.1.0",
     "file": "0.2.1",
     "nconf": "0.6.7",
