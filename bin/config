@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+var requirejs = require('requirejs');
+
+requirejs.config({
+  name: 'brainy-server',
+  deps: ['main'],
+  baseUrl: __dirname + '/..',
+  paths: {
+    main: __dirname + '/main',
+    src: 'src'
+  }
+});

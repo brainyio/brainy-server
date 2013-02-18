@@ -1,0 +1,39 @@
+{
+
+  "name": "brainy-server",
+  "description": "a server side and client side framework for Backbone",
+  "keywords": ["brainy", "backbone", "client", "framework"],
+
+  "version": "0.0.1",
+  "main": "./src/index",
+  "bin": {
+    "brainy-server": "./bin/config"
+  },
+
+  "dependencies": {
+    "backbone": "0.9.10",
+    "brainy-api": "git://github.com/brainyio/brainy-api.git",
+    "brainy-boilerplate": "git://github.com/brainyio/brainy-boilerplate.git",
+    "brainy-sync": "git://github.com/brainyio/brainy-sync.git",
+    "express": "3.1.0",
+    "file": "0.2.1",
+    "nconf": "0.6.7",
+    "requirejs": "2.1.4",
+    "underscore": "1.4.4"
+  },
+
+  "engines": {
+    "node": ">=0.8.12"
+  },
+
+  "author": {
+    "name": "catshirt",
+    "email": "caden@catshirt.net"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brainyio/brainy-server"
+  }
+
+}

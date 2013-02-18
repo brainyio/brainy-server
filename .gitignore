@@ -1,0 +1,9 @@
+# development files
+node_modules
+
+# project files
+*.sublime-project
+*.sublime-workspace
+
+# misc
+.DS_Store
