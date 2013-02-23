@@ -6,7 +6,6 @@ requirejs.config({
   deps: ['main'],
   baseUrl: __dirname + '/..',
   paths: {
-    main: __dirname + '/main',
-    src: 'src'
+    main: __dirname + '/main'
   }
 });
