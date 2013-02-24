@@ -4,7 +4,7 @@
   "description": "a server side and client side framework for Backbone",
   "keywords": ["brainy", "backbone", "client", "framework"],
 
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./src/index",
   "bin": {
     "brainy-server": "./bin/config"
