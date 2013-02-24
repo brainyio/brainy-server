@@ -12,8 +12,8 @@
 
   "dependencies": {
     "backbone": "0.9.10",
-    "brainy-api": "0.0.2",
-    "brainy-sync": "0.0.2",
+    "brainy-api": "0.0.3",
+    "brainy-sync": "0.0.3",
     "express": "3.1.0",
     "file": "0.2.1",
     "nconf": "0.6.7",
