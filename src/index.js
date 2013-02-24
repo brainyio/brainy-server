@@ -4,7 +4,7 @@ define([
   'express',
   'backbone',
   'brainy-sync',
-  'brainy-api',
+  'brainy-sync-api',
   //'brainy-subscribe',
   //'brainy-subscribe-api',
   'module',
